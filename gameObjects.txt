@@ -1,0 +1,141 @@
+Name: MysteryBoxCube
+ Tag: UntaggedName: New Game Object
+ Tag: UntaggedName: Canvas
+ Tag: UntaggedName: LevelSelect
+ Tag: UntaggedName: GameManager
+ Tag: UntaggedName: GameObject
+ Tag: InteractName: Text (TMP)
+ Tag: UntaggedName: Ocean50x50W750H750
+ Tag: UntaggedName: Directional Light
+ Tag: UntaggedName: Banana Tree Patch
+ Tag: InteractName: TMP SubMeshUI [OETZTYP SDF Material + LiberationSans SDF Atlas]
+ Tag: UntaggedName: TMP SubMeshUI [OETZTYP SDF Material + LiberationSans SDF Atlas]
+ Tag: UntaggedName: Spawner
+ Tag: UntaggedName: Island
+ Tag: UntaggedName: Start Next Round Text
+ Tag: UntaggedName: TMP SubMeshUI [OETZTYP SDF Material + LiberationSans SDF Atlas]
+ Tag: UntaggedName: Cube
+ Tag: UntaggedName: Text (TMP) (1)
+ Tag: UntaggedName: TMP SubMeshUI [OETZTYP SDF Material + LiberationSans SDF Atlas]
+ Tag: UntaggedName: EventSystem
+ Tag: UntaggedName: Image
+ Tag: UntaggedName: Palm Tree 2 (3)
+ Tag: UntaggedName: Palm Tree 2 (2)
+ Tag: UntaggedName: Palm Tree 2 (6)
+ Tag: UntaggedName: Palm Tree 2 (1)
+ Tag: UntaggedName: Palm Tree 2 (5)
+ Tag: UntaggedName: Palm Tree 2 (4)
+ Tag: UntaggedName: Palm Tree 2 (7)
+ Tag: UntaggedName: mixamorig:RightUpLeg
+ Tag: UntaggedName: Palm Tree.001
+ Tag: UntaggedName: mixamorig:LeftForeArm
+ Tag: UntaggedName: Pipe
+ Tag: UntaggedName: Pipe (2)
+ Tag: UntaggedName: Broken Boat
+ Tag: UntaggedName: Pipe (4)
+ Tag: UntaggedName: Pipe (1)
+ Tag: UntaggedName: Pipe (5)
+ Tag: UntaggedName: Island
+ Tag: CentreName: mixamorig:Spine
+ Tag: UntaggedName: mixamorig:HeadTop_End_end
+ Tag: UntaggedName: mixamorig:RightToeBase
+ Tag: UntaggedName: HUD
+ Tag: UntaggedName: Boat b
+ Tag: UntaggedName: Palm Tree 1
+ Tag: UntaggedName: Palm Tree
+ Tag: UntaggedName: mixamorig:RightArm
+ Tag: UntaggedName: mixamorig:LeftShoulder
+ Tag: UntaggedName: Dart
+ Tag: UntaggedName: Monkey Follower
+ Tag: UntaggedName: mixamorig:RightFoot
+ Tag: UntaggedName: mixamorig:RightHand_end
+ Tag: UntaggedName: Boat a
+ Tag: UntaggedName: mixamorig:RightShoulder
+ Tag: UntaggedName: mixamorig:LeftToe_End_end
+ Tag: UntaggedName: mixamorig:LeftArm
+ Tag: UntaggedName: Crosshair
+ Tag: UntaggedName: Image (1)
+ Tag: UntaggedName: Image (2)
+ Tag: UntaggedName: Dart Monkey
+ Tag: UntaggedName: GameObject
+ Tag: UntaggedName: RoundNumber
+ Tag: UntaggedName: Canvas
+ Tag: UntaggedName: Weapon
+ Tag: UntaggedName: Image (1)
+ Tag: UntaggedName: CurrencyText
+ Tag: UntaggedName: Image
+ Tag: UntaggedName: Monkey
+ Tag: PlayerName: FirstPersonCharacter
+ Tag: MainCameraName: RoundText
+ Tag: UntaggedName: HealthText
+ Tag: UntaggedName: Armature
+ Tag: UntaggedName: mixamorig:LeftToeBase
+ Tag: UntaggedName: CrosshairCanvas
+ Tag: UntaggedName: mixamorig:Neck
+ Tag: UntaggedName: mixamorig:RightHand
+ Tag: UntaggedName: Palm Tree 3
+ Tag: UntaggedName: mixamorig:Spine2
+ Tag: UntaggedName: Monke Eyelids
+ Tag: UntaggedName: Palm Tree.002
+ Tag: UntaggedName: Palm Tree.002
+ Tag: UntaggedName: Palm Tree.002
+ Tag: UntaggedName: Palm Tree.002
+ Tag: UntaggedName: Palm Tree.002
+ Tag: UntaggedName: Palm Tree.002
+ Tag: UntaggedName: Palm Tree.002
+ Tag: UntaggedName: mixamorig:RightToe_End
+ Tag: UntaggedName: Monkey Arm
+ Tag: UntaggedName: Weapons
+ Tag: UntaggedName: mixamorig:LeftUpLeg
+ Tag: UntaggedName: mixamorig:RightLeg
+ Tag: UntaggedName: Palm Tree
+ Tag: UntaggedName: Palm Tree
+ Tag: UntaggedName: Palm Tree
+ Tag: UntaggedName: Palm Tree
+ Tag: UntaggedName: Palm Tree
+ Tag: UntaggedName: Palm Tree
+ Tag: UntaggedName: Palm Tree
+ Tag: UntaggedName: Palm Tree
+ Tag: UntaggedName: Palm Tree 1 (9)
+ Tag: UntaggedName: Palm Tree 1 (3)
+ Tag: UntaggedName: Palm Tree 1 (5)
+ Tag: UntaggedName: Palm Tree 1 (1)
+ Tag: UntaggedName: Palm Tree 1 (4)
+ Tag: UntaggedName: Palm Tree 1 (2)
+ Tag: UntaggedName: Palm Tree 1 (6)
+ Tag: UntaggedName: Palm Tree 1 (7)
+ Tag: UntaggedName: Object Pool
+ Tag: UntaggedName: mixamorig:LeftHand_end
+ Tag: UntaggedName: mixamorig:Spine1
+ Tag: UntaggedName: mixamorig:Hips
+ Tag: UntaggedName: Monkey Basic
+ Tag: UntaggedName: mixamorig:RightToe_End_end
+ Tag: UntaggedName: mixamorig:RightForeArm
+ Tag: UntaggedName: Projectile In Hand
+ Tag: UntaggedName: Monke Base
+ Tag: UntaggedName: mixamorig:LeftHand
+ Tag: UntaggedName: mixamorig:Head
+ Tag: UntaggedName: Banana Farm
+ Tag: InteractName: mixamorig:LeftLeg
+ Tag: UntaggedName: mixamorig:LeftFoot
+ Tag: UntaggedName: Palm Tree 3 (3)
+ Tag: UntaggedName: Palm Tree 3 (6)
+ Tag: UntaggedName: Palm Tree 3 (5)
+ Tag: UntaggedName: Palm Tree 3 (2)
+ Tag: UntaggedName: Palm Tree 3 (4)
+ Tag: UntaggedName: Palm Tree 3 (1)
+ Tag: UntaggedName: Palm Tree 3 (7)
+ Tag: UntaggedName: Palm Tree.002
+ Tag: UntaggedName: Island
+ Tag: UntaggedName: mixamorig:HeadTop_End
+ Tag: UntaggedName: mixamorig:LeftToe_End
+ Tag: UntaggedName: Palm Tree.001
+ Tag: UntaggedName: Palm Tree.001
+ Tag: UntaggedName: Palm Tree.001
+ Tag: UntaggedName: Palm Tree.001
+ Tag: UntaggedName: Palm Tree.001
+ Tag: UntaggedName: Palm Tree.001
+ Tag: UntaggedName: Palm Tree.001
+ Tag: UntaggedName: Shop
+ Tag: UntaggedName: Palm Tree 2
+ Tag: Untagged

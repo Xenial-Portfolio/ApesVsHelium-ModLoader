@@ -1,0 +1,56 @@
+F:\VSRepos\VSStudio\C#\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.csproj.AssemblyReference.cache
+F:\VSRepos\VSStudio\C#\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.ModLoaderForm.resources
+F:\VSRepos\VSStudio\C#\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.csproj.GenerateResource.cache
+F:\VSRepos\VSStudio\C#\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSRepos\VSStudio\C#\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.AssemblyInfoInputs.cache
+F:\VSRepos\VSStudio\C#\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.AssemblyInfo.cs
+F:\VSRepos\VSStudio\C#\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.csproj.CoreCompileInputs.cache
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\bin\Release\net5.0-windows\ApesVSHeliumModLoader.exe
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\bin\Release\net5.0-windows\ApesVSHeliumModLoader.deps.json
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\bin\Release\net5.0-windows\ApesVSHeliumModLoader.runtimeconfig.json
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\bin\Release\net5.0-windows\ApesVSHeliumModLoader.runtimeconfig.dev.json
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\bin\Release\net5.0-windows\ApesVSHeliumModLoader.dll
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\bin\Release\net5.0-windows\ref\ApesVSHeliumModLoader.dll
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\bin\Release\net5.0-windows\ApesVSHeliumModLoader.pdb
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\bin\Release\net5.0-windows\UnityEngine.CoreModule.dll
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\bin\Release\net5.0-windows\UnityEngine.SharedInternalsModule.dll
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.ModLoaderForm.resources
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.csproj.GenerateResource.cache
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.AssemblyInfoInputs.cache
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.AssemblyInfo.cs
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.csproj.CoreCompileInputs.cache
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.csproj.CopyComplete
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.dll
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ref\ApesVSHeliumModLoader.dll
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.pdb
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.genruntimeconfig.cache
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.Menus.ModsMenu.resources
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.Menus.PathMenu.resources
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\bin\Release\net5.0-windows\ApesVSHeliumModLoader.exe
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\bin\Release\net5.0-windows\ApesVSHeliumModLoader.deps.json
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\bin\Release\net5.0-windows\ApesVSHeliumModLoader.runtimeconfig.json
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\bin\Release\net5.0-windows\ApesVSHeliumModLoader.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\bin\Release\net5.0-windows\ApesVSHeliumModLoader.dll
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\bin\Release\net5.0-windows\ApesVSHeliumModLoader.pdb
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.Menus.ModsMenu.resources
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.Menus.PathMenu.resources
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.ModLoaderForm.resources
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.dll
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\refint\ApesVSHeliumModLoader.dll
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.pdb
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ref\ApesVSHeliumModLoader.dll
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\bin\Release\net5.0-windows\UnityEngine.CoreModule.dll
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\bin\Release\net5.0-windows\UnityEngine.SharedInternalsModule.dll
+C:\Users\Administrator\Desktop\Project\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.csproj.CopyComplete
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.Menus.ModInstallerMenu.resources
+F:\VSRepos\VSStudio\C#\ApesVsHelium ModLoader\ApesVSHeliumModLoader\obj\Release\net5.0-windows\ApesVSHeliumModLoader.csproj.AssemblyReference.cache

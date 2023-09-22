@@ -1,0 +1,2 @@
+GamePath = C:\Users\david\Desktop\Apes vs Helium
+GameSavePath = DefaultPath
