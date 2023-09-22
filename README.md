@@ -5,7 +5,7 @@ _________
 
 The creator of this game gave me a good to go and create a simple mod loader. This mod loader is a work in progress but I thought I would share it now to help everyone out that plays this game by giving you a diffrerent experience.
 This mod loader has a partial API that allows access to most of the player, enenmy and game objects data at runtime.
-Change health, Ammo, Weapons, Enenmy per round count, Money, and more.
+Change health, Ammo, Weapons, Enemy per round count, Money, and more.
 
 Features
 _________
